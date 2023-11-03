@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+table{
+	border: 1px solid orange;
+	border-collapse:collapse;
+}
+th,td{
+	border: 1px solid orange;
+   text-align:center;
+	
+}
+th{
+	background-color: #888;
+	font-color:#fff;
+	color:white;
+}
+.subTotalRow{
+	text-align:right;
+}
